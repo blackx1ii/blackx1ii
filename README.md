@@ -26,7 +26,7 @@ npx black
 const anmol = {
     pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "php", "cpp", "rust", "python", ],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    askMeAbout: ["web dev"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
