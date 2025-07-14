@@ -4,7 +4,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/blackx1ii?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=blackx1ii.blackx1ii)
-![Waka Readme](https://github.com/blackx1ii/blackx1ii/workflows/Waka%20Readme/badge.svg)
 <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="blackx1ii | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ### 📫 Like to meet me?
