@@ -7,4 +7,3 @@
 ![DanPlayz0's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackx1ii&show_icons=true&theme=onedark)  
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blackx1ii&theme=tokyonight)](https://git.io/streak-stats) 
